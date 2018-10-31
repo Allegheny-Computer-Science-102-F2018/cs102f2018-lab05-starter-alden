@@ -88,10 +88,18 @@ Graph is one of the most important data structures nowadays. It has many real-li
 ### Idea 5
 1) Explain your idea for a class project.
 
+**An interesting idea for a class project could be simulating the process of hacking a computer.**
+
 2) How is the idea connected to computer science?
+
+**This idea is connected to computer science by touching on concepts like cryptography and stresses the importance of data security.**
 
 3) What is the article's reference to support this idea? Note: Articles are no older than five years
 
+**The article talks about the criteria for creating an AES algorithm for security and then goes on to talk about the substitution process and how you can substitute bytes and shift rows.**
+
 4) What is the central thesis to the article?
+
+**The central thesis of this article**
 
 5) How will this article support your idea?
