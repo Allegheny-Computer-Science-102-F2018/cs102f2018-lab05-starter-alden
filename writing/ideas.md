@@ -88,11 +88,11 @@ Graph is one of the most important data structures nowadays. It has many real-li
 ### Idea 5
 1) Explain your idea for a class project.
 
-**An interesting idea for a class project could be simulating the process of hacking a computer.**
+**An interesting idea for a class project could be simulating the process of hacking an email using cryptography methods and Caeser-Ciphers.**
 
 2) How is the idea connected to computer science?
 
-**This idea is connected to computer science by touching on concepts like cryptography and stresses the importance of data security.**
+**This idea is connected to computer science by touching on concepts like cryptography and stresses the importance of data security. Nowadays everything is becoming digitized so being susceptible to hacks is becoming more common.**
 
 3) What is the article's reference to support this idea? Note: Articles are no older than five years
 
@@ -100,6 +100,8 @@ Graph is one of the most important data structures nowadays. It has many real-li
 
 4) What is the central thesis to the article?
 
-**The central thesis of this article**
+**The central thesis of this article is creating AES algorithms to be able to encrpyt data so that it will be very difficult to hack. Once the AES algorithm is created, only the sender who created the key can decode the algorithm unless the sender gives out the key. AES algorithms are supposed to be more efficient, and faster than DES and 3DES algorithms used for encrypting data.**
 
 5) How will this article support your idea?
+
+**This article talks about the best and most efficient ways of encrypting data and how to keep your information safe. My idea is to do the opposite and instead of encrypting information but decrypting and hacking information that someone who isn't the sender or specified receiver is supposed to have.**
