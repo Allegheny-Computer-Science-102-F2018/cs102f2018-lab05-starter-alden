@@ -27,27 +27,18 @@ Please be sure that you justify why your idea is of interest to discrete structu
 
 ### Idea 2 (Sweta Rauniyar)
 1) Explain your idea for a class project.
-
 My idea for the class project is "Data Compression for Sequencing Data Algorithm". This idea revolves around the methodologies that involve lossless data algorithms and how this affects the speed, efficiency and working of the system.
 
-
 2) How is the idea connected to computer science?
-
 The backbone of this idea is data and algorithms which are directly related to the field of Computer Science. The world of computer science is all about the processed information which is the data and algorithms are the mere step-by-step operations of retrieving the final result for a task, for instance: data processing.
 
-
 3) What is the article's reference to support this idea? Note: Articles are no older than five years
-
 The articles focuses on Huffman Coding and Arithmetic Encoding that are commonly used for lossless data compression and gives compression between them according to their performances.
 
-
 4) What is the central thesis to the article?
-
 The article supports the notion of Data compression by signifying its importance as it reduces data size, removes the excessive information and avoids redundancy. They address this significance in a quantitative manner and portray this phenomenon as an essential asset in the world of computer science as there is an enormous amount of data that needs to be managed properly for the convenience of the people who are using them.
 
-
 5) How will this article support your idea?
-
 This article helped me support the notion of 'Data Compression' as there are questions regarding its reliability since there is 'loss' of data. However, we need to be clear about losing data and reducing its size and for this, the article does a great job by comparing the performance of specialized comparing specialized compression algorithms and tools.
 
 Citation:
@@ -55,37 +46,56 @@ Data Compression Methodologies for Lossless Data and Comparison between Algorith
 https://pdfs.semanticscholar.org/40e6/ac37d0f329b99c6410676f9c4c9593c593f5.pdf
 
 
-### Idea 3
+### Idea 3 (Haeley Griffin)
 1) Explain your idea for a class project.
+
+My idea for this class project is to further investigate the idea behind Fibonacci's sequence. I wanted to explore the different findings of how Fibonacci's sequence is found in other places not just in math.  
 
 2) How is the idea connected to computer science?
 
+This idea connects to computer science because we discussed Fibonacci's sequence already this semester relating to not only the math behind it but we related it to the human body and how its used to calculate the measurements of the arms and legs.
+
 3) What is the article's reference to support this idea? Note: Articles are no older than five years
+
+I have found two articles to support this idea. One of the articles discussed "Laws of Development of Which Are Expressed by Numerical Sequences Like Fibonacci Numbers". The other article discussed "Modeling Design of Curved Surface Based on Fibonacci Sequence".
+
+Articles:
+http://article.journalchemistry.org/pdf/10.11648.j.sjc.20180604.11.pdf
+http://www.dpi-proceedings.com/index.php/dtssehs/article/view/9649/9207
 
 4) What is the central thesis to the article?
 
+The central thesis to both of these articles is how other things in nature, biology, and medicine, are formed using Fibonacci's Sequence.
+
+
 5) How will this article support your idea?
 
+These articles have solid evidence of different places that Fibonacci's Sequence is found and how it is formed. It uses the many mathematical examples to support these findings.
 
 ### Idea 4
 1) Explain your idea for a class project.
 
 **Topic: How to reverse the graph path and find the best path? What are the advantages and disadvantages? How to implement one of the efficient one?**
 
-Try to find a list of graph search algorithms, and find their advantages and disadvantages. Finally try to implement an efficient one, for example, *A star search algorithm*.
+Try to find a list of graph search algorithms, and find their advantages and disadvantages. Finally try to implement an efficient one, for example, _A* search algorithm_, and use this algorithm to build a maze game. An introduction of graph search algorithm can be found [here](https://cs.stanford.edu/people/abisee/gs.pdf).
 
 2) How is the idea connected to computer science?
 
-Graph is one of the most important data structures nowadays. It has many real-life applications, for example, map, navigation and maze running.
+Graph is one of the most important data structures nowadays. It has many real-life applications, for example, map, navigation and maze running. In AI branch of computer science, how to traverse graph efficiently and quickly in a smart way is a potential question for computer science engineers.
 
 3) What is the article's reference to support this idea? Note: Articles are no older than five years
 
+The article I found is called [Pathfinding in Strategy Games and Maze Solving Using A* Search Algorithm](https://www.scirp.org/journal/PaperInformation.aspx?paperID=70460).
+
 4) What is the central thesis to the article?
+
+The article I found is mainly talking about implementing agent path-finding strategies by using A* algorithm to find the shortest path. In this article, authors talked and compared different basic graph search algorithms including DFS, BFS, etc.
 
 5) How will this article support your idea?
 
+Since this article talked about one of the popular graph search algorithm, and it compared different basic search algorithms, it could be a good source for us to learn different algorithms.
 
-### Idea 5
+### Idea 5(Jordan Wilson)
 1) Explain your idea for a class project.
 
 **An interesting idea for a class project could be simulating the process of hacking an email using cryptography methods and Caeser-Ciphers.**
@@ -96,11 +106,13 @@ Graph is one of the most important data structures nowadays. It has many real-li
 
 3) What is the article's reference to support this idea? Note: Articles are no older than five years
 
-**The article talks about the criteria for creating an AES algorithm for security and then goes on to talk about the substitution process and how you can substitute bytes and shift rows.**
+**The article talks about the criteria for creating an AES algorithm for security and then goes on to talk about the substitution process and how you can substitute bytes and shift rows to encrypt data.**
+link: (https://www.researchgate.net/profile/Ako_Abdullah/publication/317615794_Advanced_Encryption_Standard_AES_Algorithm_to_Encrypt_and_Decrypt_Data/links/59437cd8a6fdccb93ab28a48/Advanced-Encryption-Standard-AES-Algorithm-to-Encrypt-and-Decrypt-Data.pdf)
 
 4) What is the central thesis to the article?
 
 **The central thesis of this article is creating AES algorithms to be able to encrpyt data so that it will be very difficult to hack. Once the AES algorithm is created, only the sender who created the key can decode the algorithm unless the sender gives out the key. AES algorithms are supposed to be more efficient, and faster than DES and 3DES algorithms used for encrypting data.**
+
 
 5) How will this article support your idea?
 
