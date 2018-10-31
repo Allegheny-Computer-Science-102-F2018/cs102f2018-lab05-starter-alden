@@ -72,26 +72,26 @@ The central thesis to both of these articles is how other things in nature, biol
 
 These articles have solid evidence of different places that Fibonacci's Sequence is found and how it is formed. It uses the many mathematical examples to support these findings.
 
-### Idea 4
-1) Explain your idea for a class project.
+### Idea 4 (Xingbang Liu)
+1. **Explain your idea for a class project.**
 
 **Topic: How to reverse the graph path and find the best path? What are the advantages and disadvantages? How to implement one of the efficient one?**
 
 Try to find a list of graph search algorithms, and find their advantages and disadvantages. Finally try to implement an efficient one, for example, _A* search algorithm_, and use this algorithm to build a maze game. An introduction of graph search algorithm can be found [here](https://cs.stanford.edu/people/abisee/gs.pdf).
 
-2) How is the idea connected to computer science?
+2. **How is the idea connected to computer science?**
 
 Graph is one of the most important data structures nowadays. It has many real-life applications, for example, map, navigation and maze running. In AI branch of computer science, how to traverse graph efficiently and quickly in a smart way is a potential question for computer science engineers.
 
-3) What is the article's reference to support this idea? Note: Articles are no older than five years
+3. **What is the article's reference to support this idea? Note: Articles are no older than five years**
 
 The article I found is called [Pathfinding in Strategy Games and Maze Solving Using A* Search Algorithm](https://www.scirp.org/journal/PaperInformation.aspx?paperID=70460).
 
-4) What is the central thesis to the article?
+4. **What is the central thesis to the article?**
 
 The article I found is mainly talking about implementing agent path-finding strategies by using A* algorithm to find the shortest path. In this article, authors talked and compared different basic graph search algorithms including DFS, BFS, etc.
 
-5) How will this article support your idea?
+5. **How will this article support your idea?**
 
 Since this article talked about one of the popular graph search algorithm, and it compared different basic search algorithms, it could be a good source for us to learn different algorithms.
 
