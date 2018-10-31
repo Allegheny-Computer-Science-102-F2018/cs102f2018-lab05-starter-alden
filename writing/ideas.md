@@ -26,6 +26,8 @@ Link: https://pdfs.semanticscholar.org/c3f2/f96ada09365496e75ed5fb7d89bdead8bbd8
 
 4) What is the central thesis to the article? (Jordan)
 
+The central thesis to this article is the idea of sets and how they represent data. There are different types of techniques and diagrams you can use to represent data depending on how the data correlates with itself.
+
 5) How will this article support your idea? (Sweta)
 
 
