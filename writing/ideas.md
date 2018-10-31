@@ -17,15 +17,16 @@ Please be sure that you justify why your idea is of interest to discrete structu
 
 Link: https://pdfs.semanticscholar.org/c3f2/f96ada09365496e75ed5fb7d89bdead8bbd8.pdf
 
-1) Explain your idea for a class project.
+1) Explain your idea for a class project. (Sweta)
 
-2) How is the idea connected to computer science?
 
-3) What is the article's reference to support this idea? Note: Articles are no older than five years
+2) How is the idea connected to computer science? (Sheldon)
 
-4) What is the central thesis to the article?
+3) What is the article's reference to support this idea? Note: Articles are no older than five years (Haeley)
 
-5) How will this article support your idea?
+4) What is the central thesis to the article? (Jordan)
+
+5) How will this article support your idea? (Sweta)
 
 
 ### Idea 2 (Sweta Rauniyar)
