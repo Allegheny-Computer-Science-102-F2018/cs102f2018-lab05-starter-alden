@@ -13,7 +13,10 @@ Please be sure that you justify why your idea is of interest to discrete structu
 
 
 
-### Idea 1
+### Idea 1 (Combined Group Idea)
+
+Link: https://pdfs.semanticscholar.org/c3f2/f96ada09365496e75ed5fb7d89bdead8bbd8.pdf
+
 1) Explain your idea for a class project.
 
 2) How is the idea connected to computer science?
