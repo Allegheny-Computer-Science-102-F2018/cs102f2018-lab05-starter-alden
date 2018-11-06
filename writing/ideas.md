@@ -1,34 +1,30 @@
 # Ideas and articles
 
-
 ## Date: 24 Oct 2018
 ## Group Names: Alden
-
-
-
 
 For each of your five ideas, please respond to the following. Each person is to submit a markdown document containing the names of his or her group members.
 
 Please be sure that you justify why your idea is of interest to discrete structures.
 
-
-
 ### Idea 1 (Combined Group Idea)
 
-Link: https://pdfs.semanticscholar.org/c3f2/f96ada09365496e75ed5fb7d89bdead8bbd8.pdf
+The [article](https://pdfs.semanticscholar.org/c3f2/f96ada09365496e75ed5fb7d89bdead8bbd8.pdf)
 
-1) Explain your idea for a class project. (Sweta)
+1) **Explain your idea for a class project. (Sweta)**
 
 
-2) How is the idea connected to computer science? (Sheldon)
+2) **How is the idea connected to computer science? (Sheldon)**
 
-3) What is the article's reference to support this idea? Note: Articles are no older than five years (Haeley)
+In any subject that needs data analyzation, probability, or statistics, it is always important to visualize data sets to observe the relationship between them. It can also make experimental observation and result presentation easier. People usually use specialized computer applications to deal with large amount of data. However, these applications usually have complicated interfaces and operation logics. Computer science thinking skills or computer languages can be a good tool to deal with the situation. For example, R, Python, Java (Weka) are some computer languages that can be good tools to deal with large number of data sets. The mathematical logic representation can be easily represented by related computational language. With computer science thinking skills, people can also learn complex computer application's faster. 
 
-4) What is the central thesis to the article? (Jordan)
+3) **What is the article's reference to support this idea? Note: Articles are no older than five years (Haeley)**
+
+4) **What is the central thesis to the article? (Jordan)**
 
 The central thesis to this article is the idea of sets and how they represent data. There are different types of techniques and diagrams you can use to represent data depending on how the data correlates with itself.
 
-5) How will this article support your idea? (Sweta)
+5) **How will this article support your idea? (Sweta)**
 
 
 ### Idea 2 (Sweta Rauniyar)
