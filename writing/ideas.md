@@ -18,7 +18,7 @@ Please be sure that you justify why your idea is of interest to discrete structu
 Link: https://pdfs.semanticscholar.org/c3f2/f96ada09365496e75ed5fb7d89bdead8bbd8.pdf
 
 1) Explain your idea for a class project. (Sweta)
-
+Sets can be an extremely useful to learn about the different kinds of data and furthermore analyze the differences and similarities with them. Grouping the data into sets and visualizing them into sets can turn into an amazing way of analyzing the data.
 
 2) How is the idea connected to computer science? (Sheldon)
 
@@ -29,7 +29,7 @@ Link: https://pdfs.semanticscholar.org/c3f2/f96ada09365496e75ed5fb7d89bdead8bbd8
 The central thesis to this article is the idea of sets and how they represent data. There are different types of techniques and diagrams you can use to represent data depending on how the data correlates with itself.
 
 5) How will this article support your idea? (Sweta)
-
+The article
 
 ### Idea 2 (Sweta Rauniyar)
 1) Explain your idea for a class project.
