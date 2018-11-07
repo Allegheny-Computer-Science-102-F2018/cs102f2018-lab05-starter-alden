@@ -29,7 +29,7 @@ The central thesis to this article is the idea of sets and how they represent da
 
 The article discusses about how data items are grouped into sets and further digs into Information Visualization (InfoVis) that allows us the opportunity to study the sets and their relation with each other. Since these sets can be related to each other in a number ways, there are several InfoVis techniques that have alternative ways to address the relations in a convenient way.
 
-The [article](https://pdfs.semanticscholar.org/c3f2/f96ada09365496e75ed5fb7d89bdead8bbd8.pdf)
+Here is the [link for the article](https://pdfs.semanticscholar.org/c3f2/f96ada09365496e75ed5fb7d89bdead8bbd8.pdf).
 
 ### Idea 2 (Sweta Rauniyar)
 1) Explain your idea for a class project.
