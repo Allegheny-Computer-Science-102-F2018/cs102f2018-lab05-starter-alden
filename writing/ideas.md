@@ -24,6 +24,8 @@ Sets can be an extremely useful to learn about the different kinds of data and f
 
 3) What is the article's reference to support this idea? Note: Articles are no older than five years (Haeley)
 
+This article discusses analyzing the relationship between sets. It discusses visualizing the sets and how it can be a challenge to analyze them because there are so many possible relationships. It talks about different techniques that can be used to visualize them.   
+
 4) What is the central thesis to the article? (Jordan)
 
 The central thesis to this article is the idea of sets and how they represent data. There are different types of techniques and diagrams you can use to represent data depending on how the data correlates with itself.
