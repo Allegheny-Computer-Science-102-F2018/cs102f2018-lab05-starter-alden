@@ -13,7 +13,7 @@ Please be sure that you justify why your idea is of interest to discrete structu
 
 Sets can be an extremely useful to learn about the different kinds of data and furthermore analyze the differences and similarities with them. Grouping the data into sets and visualizing them into sets can turn into an amazing way of analyzing the data.
 
-2) **How is the idea connected to computer science? (Sheldon)**
+2) **How is the idea connected to computer science? (Xingbang)**
 
 In any subject that needs data analyzation, probability, or statistics, it is always important to visualize data sets to observe the relationship between them. It can also make experimental observation and result presentation easier. People usually use specialized computer applications to deal with large amount of data. However, these applications usually have complicated interfaces and operation logics. Computer science thinking skills or computer languages can be a good tool to deal with the situation. For example, R, Python, Java (Weka) are some computer languages that can be good tools to deal with large number of data sets. The mathematical logic representation can be easily represented by related computational language. With computer science thinking skills, people can also learn complex computer application's faster.
 
