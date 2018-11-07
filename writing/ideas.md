@@ -2,7 +2,7 @@
 
 
 ## Date: 24 Oct 2018
-## Group Names: Alden
+## Group Names: Haeley Griffin, Xingbang Liu, Jordan Wilson, Sweta Rauniyar
 
 
 
@@ -17,7 +17,7 @@ Please be sure that you justify why your idea is of interest to discrete structu
 
 Link: https://pdfs.semanticscholar.org/c3f2/f96ada09365496e75ed5fb7d89bdead8bbd8.pdf
 
-1) Explain your idea for a class project. (Sweta)
+1) Explain your idea for a class project.(Sweta)
 Sets can be an extremely useful to learn about the different kinds of data and furthermore analyze the differences and similarities with them. Grouping the data into sets and visualizing them into sets can turn into an amazing way of analyzing the data.
 
 2) How is the idea connected to computer science? (Sheldon)
@@ -31,7 +31,11 @@ This article discusses analyzing the relationship between sets. It discusses vis
 The central thesis to this article is the idea of sets and how they represent data. There are different types of techniques and diagrams you can use to represent data depending on how the data correlates with itself.
 
 5) How will this article support your idea? (Sweta)
-The article
+The article discusses about how data items are grouped into sets and further digs into Information Visualization (InfoVis) that allows us the opportunity to study the sets and their relation with each other. Since these sets can be related to each other in a number ways, there are several InfoVis techniques that have alternative ways to address the relations in a convenient way.
+
+Article:
+https://pdfs.semanticscholar.org/c3f2/f96ada09365496e75ed5fb7d89bdead8bbd8.pdf
+
 
 ### Idea 2 (Sweta Rauniyar)
 1) Explain your idea for a class project.
