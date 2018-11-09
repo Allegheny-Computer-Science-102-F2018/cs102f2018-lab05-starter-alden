@@ -86,9 +86,9 @@ These articles have solid evidence of different places that Fibonacci's Sequence
 ### Idea 4 (Xingbang Liu)
 1. **Explain your idea for a class project.**
 
-**Topic: How to reverse the graph path and find the best path? What are the advantages and disadvantages? How to implement one of the efficient one?**
+**Topic: How to traverse the graph path and find the best path? What are the advantages and disadvantages? How to implement one of the efficient one?**
 
-Try to find a list of graph search algorithms, and find their advantages and disadvantages. Finally try to implement an efficient one, for example, _A* search algorithm_, and use this algorithm to build a maze game. An introduction of graph search algorithm ca**n be found [here](https://cs.stanford.edu/people/abisee/gs.pdf).
+Try to find a list of graph search algorithms, and find their advantages and disadvantages. Finally try to implement an efficient one, for example, _A* search algorithm_, and use this algorithm to build a maze game. An introduction of graph search algorithm can be found [here](https://cs.stanford.edu/people/abisee/gs.pdf).
 
 2. **How is the idea connected to computer science?**
 
