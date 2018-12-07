@@ -22,10 +22,18 @@ def get_matrix(content):
     exitP = (length-1, width-1)
     return length, width, enterP, exitP, obstacles
 
-# def heuristic():
-# # TODO
-# def a_star():
-# # TODO
+def heuristic(a, b):
+    # 4-way Manhatten distance
+    (x1, y1) = a
+    (x2, y2) = b
+    return abs(x1 - x2) + abs(y1 - y2)
+
+def a_star():
+    # Open and closed list
+    came_from = {}
+    cost_so_far = {}
+    came_from[start] = None
+    Cost_so_far[start] = 0
 
 if __name__ == "__main__":
     # argumant to get the map file path from terminal commend
