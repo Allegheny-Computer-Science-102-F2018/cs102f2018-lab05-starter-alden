@@ -18,6 +18,8 @@ Depth-First Search is a recursive algorithm. This searching algorithm works by t
 
 #### Greedy Search
 
+A greedy algorithm is a unique type of algorithm we researched while working on this project. This algorithm is unique because for starters it isn't an actual algorithm at all. It is a type of technique used to run through possible situations at choose what it deems as the best. A greedy algorithm will always pick the highest value in a situation. Also, a greedy algorithm is quite easy to use. When you are on a time-crunch, it is a good and easy way to simplify a problem to come up with a solution. A downside to making greedy algorithm are that they don’t always focus on the entirety of what you are trying to figure out. Greedy algorithms will always choose what is best in a situation but this is not always efficient. With this issue, it is much harder to find and figure out problems that may be inside the code. It is also important to note that most greedy algorithms are not actually correct, they are just a way of simplifying a problem. The solution a greedy algorithm may come up with is not always correct. The greedy algorithm just chooses what it thinks is best, not actually what is best. As we can see, this algorithm may not be the best algorithm when it comes to problem solving.
+
 #### A* Algorithm
 
 ### A* Algorithm Application
