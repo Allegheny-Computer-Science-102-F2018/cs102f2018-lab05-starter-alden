@@ -35,6 +35,8 @@ def a_star():
     came_from[start] = None
     Cost_so_far[start] = 0
 
+    
+
 if __name__ == "__main__":
     # argumant to get the map file path from terminal commend
     parser = argparse.ArgumentParser(description='Input your designed map file path.')
