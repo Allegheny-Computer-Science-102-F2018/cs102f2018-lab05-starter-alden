@@ -16,7 +16,8 @@ Table 1. The Big-O Notation for different Algorithms
 |      | Breadth-First Search | Depth-First Search | A*     |Greedy|
 |------|----------------------|--------------------|--------|------|
 | Time | O(b^d + 1)           | O(b^m)             | O(b^d) | n/a  |
-|   |   |   |   |   |
+
+
 Here, 'b' is the branching factor, 'd' is the depth of the shallowest solution, and 'm' is the maximum depth of the search tree.
 
 #### Breadth-First Search
@@ -31,7 +32,7 @@ A greedy algorithm is a unique type of algorithm we researched while working on 
 
 #### A* Algorithm
 
-A* Search Algorithm is a smart algorithm. To search through a grid the algorithm follows these steps. First it will select the node according to the 'f' value, this is the parameter equal to the sum of the 'g' and 'h' parameter. The 'g' parameter is the cost of the movement to move from starting node to a given node on the grid, follow a path generated to get there. The 'h' parameter is the estimated movement cost to move from the current node to the final node on the grid. The 'h' parameter id often referred to as the heuristic. This is the educated guess. There are generally three approximation heuristics to calculate h, 1) Manhattan Distance, 2) Diagonal Distance, and 3) Euclidean Distance. For our A* program we just used Manhattan Distance because we just wanted to calculate the four way heuristic and the other two calculate the eight way. Manhattan Distance is the sum of absolute values of difference in the goal's x and y coordinates and the current nodes coordinates. When doing research on this algorithm we also found that the time complexity for this search algorithm depends on the heuristic. In the worst case this algorithm is O(b^d) where b is the average number of successors. 
+A* Search Algorithm is a smart algorithm. To search through a grid the algorithm follows these steps. First it will select the node according to the 'f' value, this is the parameter equal to the sum of the 'g' and 'h' parameter. The 'g' parameter is the cost of the movement to move from starting node to a given node on the grid, follow a path generated to get there. The 'h' parameter is the estimated movement cost to move from the current node to the final node on the grid. The 'h' parameter id often referred to as the heuristic. This is the educated guess. There are generally three approximation heuristics to calculate h, 1) Manhattan Distance, 2) Diagonal Distance, and 3) Euclidean Distance. For our A* program we just used Manhattan Distance because we just wanted to calculate the four way heuristic and the other two calculate the eight way. Manhattan Distance is the sum of absolute values of difference in the goal's x and y coordinates and the current nodes coordinates. When doing research on this algorithm we also found that the time complexity for this search algorithm depends on the heuristic. In the worst case this algorithm is O(b^d) where b is the average number of successors.
 
 ### A* Algorithm Application
 
