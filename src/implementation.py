@@ -6,6 +6,7 @@
 # User note: This is part of the original code, please check out the website on top for
 # the complete program
 import collections
+import heapq
 
 class SimpleGraph:
     def __init__(self):
