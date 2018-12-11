@@ -34,6 +34,7 @@ A* Search Algorithm is a smart algorithm. To search through a grid the algorithm
 
 ### A* Algorithm Application
 
+
 ### Conclusion( overview, include rewards and challenges)
 The overall analysis of the aforementioned algorithms portrayed a clear picture of the functionality of each algorithms including the time consumption. The initial challenge we were struggling with was to understand how the algorithms worked. The direction in which the nodes moved while traversing through the graph was well explained through visual representation that included numbers. This emphasized how helpful diagrams can be and this further contributes to the significance of graph theory. We also struggles with showing the graph/maze implemented using the A* algorithm. We figured out a way to resolve that by creating an input text file that displayed the structure of our graph while we compiled the program. The accomplishment of this project was that all of us had a broad overview of the functionality of the algorithms and using that knowledge to build a maze that can reduce the time factor, a factor that is surreal in everyday lives. With further discussion with Professor Carter, we had the opportunity to learn how there are real world innovations are being conducted around the world. It was extremely motivating and encouraging of him to suggest us to continue working on this project as there could be a possibility of turning it into a real-world application.
 

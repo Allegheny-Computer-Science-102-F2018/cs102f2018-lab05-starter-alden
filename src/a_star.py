@@ -70,11 +70,16 @@ def draw_tile(graph, id, style, width):
 
 def draw_grid(command, graph, width=2, **style):
     with open(command, 'w') as f:
+        sys.stdout = f
         for y in range(graph.height):
             for x in range(graph.width):
-                f.write(b"%%-%ds" % width % draw_tile(graph, (x, y), style, width), end="")
+                print("%%-%ds" % width % draw_tile(graph, (x, y), style, width), end="")
+            print()
+        sys.stdout = sys.__stdout__
+        # f.write(txt)
 
 if __name__ == "__main__":
+    import sys
     import argparse
     from implementation import *
     # argumant to get the map file path from terminal commend
@@ -83,10 +88,10 @@ if __name__ == "__main__":
     parser.add_argument('-s', '--solution', required=True, help = 'path to the output file')
     args = parser.parse_args()
     #initialize map
+    print("\n\nHere is your map: \n\n")
     with open(args.map, 'rt') as f:
     #open map.txt as read text mode
         # content = f.read() #read content from f
-        print("\n\nHere is your map: \n\n")
         content = ''
         for l in f:
             content = content + l
@@ -99,5 +104,10 @@ if __name__ == "__main__":
         #diagram.weights =
         came_from, cost_so_far = a_star(diagram, start, goal)
         # write answers
-        draw_grid(args.solution, diagram, width=3, point_to=came_from, start=start, goal=goal)
-        print("\n\nHere is the solution: \n\n")
+        draw_grid(args.solution, diagram, width=1, point_to=came_from, start=start, goal=goal)
+    print("\n\nHere is the solution: \n\n")
+    with open(args.solution, 'rt') as f:
+        content = ''
+        for l in f:
+            content = content + l
+        print(content)

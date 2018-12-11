@@ -19,3 +19,5 @@
 The enter point would be the **left top**, the exit point would be the **right bottom**.
 
 ### How to read the solution
+
+In the solution map, the enter point would be mark as **A**, and the exit point would be marked as **Z**. The direction will be marked with **<, >, v, ^**, and it would mark the path from the exit to the entry point.
